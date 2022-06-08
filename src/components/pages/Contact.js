@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Contact() {
+export default function Contact() {
     return (
         <div className="card">
             <h1>Contact Me</h1>
